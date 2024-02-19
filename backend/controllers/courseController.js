@@ -10,7 +10,7 @@ exports.getAllCourses = async (req, res) => {
         res.status(500).json({ message: 'Internal Server Error' });
     }
 };
-
+ 
 exports.registerCourse = async (req, res) => {
     const { studentId, courseId } = req.body;
     try {
