@@ -7,9 +7,9 @@ const {
     getRegisteredCourses
 } = require('../controllers/courseController');
 
-router.get('/courses', getAllCourses);
-router.post('/register', registerCourse);
-router.post('/drop', dropCourse);
-router.get('/registered-courses/:studentId', getRegisteredCourses);
+router.get('/api/courses', getAllCourses);
+router.post('/api/register', registerCourse);
+router.post('/api/drop', dropCourse);
+router.get('/api/registered-courses/:studentId', getRegisteredCourses);
 
 module.exports = router;
