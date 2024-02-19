@@ -1,0 +1,33 @@
+[
+    {
+      "_id": "20001",
+      "courseName": "Introduction to Computer Science",
+      "department": "Computer Science",
+      "timeOfDay": "Morning"
+    },
+    {
+      "_id": "20002",
+      "courseName": "Calculus I",
+      "department": "Mathematics",
+      "timeOfDay": "Morning"
+    },
+    {
+      "_id": "20003",
+      "courseName": "English Composition",
+      "department": "English",
+      "timeOfDay": "Afternoon"
+    },
+    {
+      "_id": "20004",
+      "courseName": "History of Art",
+      "department": "Art History",
+      "timeOfDay": "Afternoon"
+    },
+    {
+      "_id": "20005",
+      "courseName": "Chemistry 101",
+      "department": "Chemistry",
+      "timeOfDay": "Morning"
+    }
+  ]
+  
